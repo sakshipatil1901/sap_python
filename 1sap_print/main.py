@@ -1,1 +1,3 @@
-print("Sakshi world")
+n = 10
+
+print("Sakshi world" , n)
